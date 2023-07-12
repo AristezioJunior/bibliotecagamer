@@ -1,4 +1,4 @@
-package com.bibliotecagamer.entidades;
+package com.bibliotecagamer.entities;
 
 import java.util.Objects;
 
